@@ -22,7 +22,7 @@ Dir Express | Directory Shortener to calm the folder navigation chaos and endles
 - Provide a way to insert a full directory path
 - Generate/Ask for a unique string as a short code
 - Save them in a table as a CSV [long dir path | shortened path]
-- Click **[here](https://github.com/WeeklyCoder/Week10/blob/main/WeeklyCoder_Week11.pde)** to get this week's starting code.
+- Click **[here](https://github.com/WeeklyCoder/Week11/blob/main/WeeklyCoder_Week11.pde)** to get this week's starting code.
 
 ## Recommended Learning:
 ```
